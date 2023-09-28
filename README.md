@@ -1,5 +1,5 @@
 ### Hi there 👋
-author - Shruti Maurya
+author - Shruti Maurya (special repository)
 
 <!--
 **shruti-maurya/shruti-Maurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
